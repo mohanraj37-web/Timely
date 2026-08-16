@@ -43,8 +43,9 @@ const Login = () => {
 
         <BrowserRouter>
         <Routes>
-          <Route path="/home" element={<Dashboard/>}/>
+          
           <Route path="/task" element={<Profile/>}/>
+          <Route path="/home" element={<Dashboard/>}/>
 
         </Routes>
         
