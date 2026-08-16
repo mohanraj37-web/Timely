@@ -1,0 +1,68 @@
+.registerCointainer {
+   
+    vertical-align: middle;
+    background-color: #6f01ed;
+    height: 100vh;
+    text-align: center;
+    align-content: center;
+}
+
+.register {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 25px;
+    
+    margin: auto;
+    
+    
+}
+
+button {
+    align-self: center;
+    border-radius: 25px;
+    color: #ffffff;
+    background-color: #6f01ed;
+    cursor: pointer;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    /* box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.149); */
+    font-size: 1vw;
+}
+
+.inputname {
+    
+    padding-bottom: 20px;
+}
+
+input {
+    padding-left: 20px;
+    width: 80%;
+    height: 30px;
+    border-radius: 25px;
+    border:1px  solid #6f01ed;
+    font-size: 1vw;
+}
+
+.reg {
+    padding-bottom: 20px;
+    color: #6f01ed;
+    font-weight: 400;
+    font-size: 1.4vw;
+}
+
+
+input:focus-visible{
+    padding-left: 20px;
+    width: 80%;
+    height: 30px;
+    border-radius: 25px;
+    border:1px  solid #1eff3f;
+    font-size: 1vw;
+    color: #1d92ff;
+    
+}

@@ -1,0 +1,13 @@
+.profileCointainer {
+    
+    width: 85%;
+    height: auto;
+    float: right;
+    align-content: center;
+    color: rgb(57, 57, 57);
+    border-radius: 8px;
+    margin: 1px 5px 5px 5px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.149);
+    
+
+}

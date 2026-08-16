@@ -1,0 +1,63 @@
+.container {
+
+    width: 89%;
+    height: 4vw;
+    float: right;
+    align-content: center;
+    color: rgb(57, 57, 57);
+    border-radius: 8px;
+    margin: 1px 5px 5px 5px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.149);
+    clear: both;
+    
+}
+
+.headerleft {
+    
+    
+    float: left;
+    padding-left: 20px;
+}
+
+.headerleft .Section1{
+    font-weight: 900;
+    font-size: larger;
+
+}
+.headerleft .Section1part{
+    font-weight: 400;
+    font-size: small;
+
+}
+
+
+.headerright {
+    flex-wrap:wrap;
+    align-items: center;
+    float: right;
+    display:flex;
+    flex-direction: row;
+    padding-right: 20px;
+    
+}
+.Section3 {
+    padding-left: 15px;
+    font-size: 1vw;
+}
+
+
+
+.Section2 img {
+    border-radius: 50%;
+    width: 2.5vw;
+    stroke: #ffffff;
+    
+    float: right;
+    
+  }
+
+  .dashboardcontent {
+        
+        
+        
+  }
