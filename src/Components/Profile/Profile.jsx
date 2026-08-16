@@ -10,7 +10,7 @@ const Profile = () => {
 
       <div className="profileCointainer">
 
-        <h1>Profile1</h1>
+        <h1>Profile</h1>
 
       </div>
       </div>
